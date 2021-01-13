@@ -1,0 +1,461 @@
+    1  print hi
+    2  sup
+    3  pwd
+    4  fuck
+    5  ctrl shift +
+    6  control shift +
+    7  ctrl shift +
+    8  cd Desktop
+    9  ctrl+shift++
+   10  whoami
+   11  hostname
+   12  cd/
+   13  cd
+   14  cd ~
+   15  cd Desktop
+   16  ls
+   17  shutdown now
+   18  pwd
+   19  cd
+   20  cd /
+   21  cd ..
+   22  cd ~
+   23  cd /home/roy/Desktop/hello_linux
+   24  gedit 1.txt
+   25  gedit
+   26  gedit 1.txt
+   27  sudo apt install gedit
+   28  gedit 1.txt
+   29  sudo apt install geany
+   30  sudo apt upgrade
+   31  apt search sqlite
+   32  apt -cache search sqlite
+   33  apt-cache search sqlite
+   34  ls
+   35  ls -l
+   36  cd Desktop
+   37  cd ..
+   38  cd Desktop/
+   39  ls -l
+   40  ls
+   41  mkdir sup
+   42  cd sup/
+   43  gedit niga
+   44  gedit remove niga
+   45  gedit niga
+   46  cat niga
+   47  ls -l
+   48  cd ..
+   49  cd 
+   50  cd /
+   51  cd dev/
+   52  ls
+   53  cd ..
+   54  ls
+   55  cd usr
+   56  ls -l
+   57  cd ..
+   58  sudo cd root
+   59  cd 
+   60  sudo cd root
+   61  cd root
+   62  cd ..
+   63  cd root
+   64  cd /
+   65  cd root
+   66  sudo cd root
+   67  cl
+   68  echo 'hi;
+   69  echo 'hi'
+   70  clear
+   71  cl
+   72  cd media/
+   73  ls
+   74  ls =l
+   75  ls -l
+   76  cd 
+   77  cd mnt
+   78  ~
+   79  cd ~
+   80  cd /
+   81  cd mnt/
+   82  ls
+   83  cd..
+   84  cd ..
+   85  cd proc
+   86  ls
+   87  cat cpuinfo
+   88  cd
+   89  vi
+   90  vim
+   91  nano
+   92  cd
+   93  cd home
+   94  cd ~
+   95  cd
+   96  cd..
+   97  cd ..
+   98  cd roy/Desktop
+   99  cd cd sup/
+  100  cd sup/
+  101  wc nigga
+  102  ls
+  103  wc niga
+  104  cat niga
+  105  wc niga
+  106  wc -l niga
+  107  bc
+  108  date
+  109  date %y
+  110  date +%y
+  111  gedit .f.txt
+  112  ls
+  113  ls -a
+  114  ls  -ltr
+  115  cd ..
+  116  man date
+  117  sudo apt install notepad
+  118  sudo apt install git
+  119  CL
+  120  בך
+  121  cl
+  122  clear
+  123  git clone https://github.com/moby/moby.git
+  124  cd moby
+  125  cd ..
+  126  ls
+  127  cd moby/
+  128  ls
+  129  ll
+  130  ls -la
+  131  ll
+  132  cd..
+  133  cd ..
+  134  cd Documents/
+  135  mkdir firstproject
+  136  cd firstproject/
+  137  git init
+  138  echo "Hi this is my first project >test.txt
+  139  sup im here again
+  140  ll
+  141  cd .git/
+  142  ll
+  143  cd ..
+  144  git status
+  145  echo "Hi this is my first at the repo">test.txt
+  146  ll
+  147  cat test
+  148  cat test.txt
+  149  git status
+  150  clear
+  151  history
+  152  cd
+  153  cd Desktop
+  154  histroy>file.txt
+  155  history
+  156  touch history 
+  157  history > ds.txt
+  158  cd Doc
+  159  cd ..
+  160  cd Documents/
+  161  cd firstproject/
+  162  ll
+  163  git status
+  164  git add test.txt
+  165  git status
+  166  git rm --cache test.txt
+  167  ll
+  168  git status
+  169  ll
+  170  git add.
+  171  git add test.txt
+  172  git status
+  173  touch a b
+  174  ll
+  175  git status
+  176  git add.
+  177  git add .
+  178  git status
+  179  git rm -- .
+  180  git rm -r  -- .
+  181  git rm -rf  -- .
+  182  git status
+  183  git ll
+  184  ll
+  185  echo "sup" > test.txt
+  186  touch a b
+  187  git status
+  188  git add .
+  189  git status
+  190  ll
+  191  git status
+  192  git commit -m "my first"
+  193  git config --global user.email "roey3092@gmail.com
+  194  run
+  195  run git config --global user.email "roey3092@gmail.com
+  196  git config --global user.email "roey3092@gmail.com"
+  197  git config --global user.name "Roy Amster"
+  198  git commit -m "my first"
+  199  git status
+  200  ll
+  201  touch k h
+  202  commit -m "second"
+  203  ll
+  204  git status
+  205  echo "file had been updated" >test.txt
+  206  git status
+  207  git -rmf h k
+  208  git -rmf h.txt k.txt
+  209  git -rm h.txt k.txt
+  210  git rm
+  211  git rm -f h k
+  212  git rm -f h.txt k.txt
+  213  ll
+  214  git rm h
+  215  git rm "h"
+  216  git rm h
+  217  git rm-r h
+  218  git rm h
+  219  ll
+  220  rm h
+  221  ll
+  222  rm k
+  223  git status
+  224  touch test2
+  225  git status
+  226  git add.
+  227  git add .
+  228  git status
+  229  git commit -m "Updated a new file and added one too"
+  230  ll
+  231  git log
+  232  shutdown
+  233  shutdown -f
+  234  shutdown ?
+  235  shutdown /?
+  236  shutdown -?
+  237  man shutdown
+  238  shutdown -k
+  239  man shutdown
+  240  shutdown -p
+  241  shutdown -P
+  242  shutdown now
+  243  cd Desktop/
+  244  cd playground/
+  245  ls
+  246  echo "hi im a" > 1.txt
+  247  echo "hi im b" > 2.txt
+  248  cp 1.txt 2.txt
+  249  cat 2.txt 
+  250  cat 1.txt 
+  251  ls ..
+  252  ls .
+  253  ls ..
+  254  ls ../..
+  255  pwd
+  256  cd ..
+  257  ls ..
+  258  ls
+  259  ls -la
+  260  ls */
+  261  echo */
+  262  tree
+  263  tree -a
+  264  tree /
+  265  ls tree
+  266  tree
+  267  apt get tree
+  268  apt install tree
+  269  tree
+  270  mv playground/1.txt a.txt
+  271  tree
+  272  mv playground/2.txt playground/3.txt
+  273  ls
+  274  ls playground/
+  275  cd ..
+  276  ls
+  277  cd Down
+  278  cd Downloads/
+  279  ls
+  280  cat th.jpeg 
+  281  cd ..
+  282  ls
+  283  ls Docs
+  284  cat a.txt b.txt
+  285  cat Docs/a.txt Docs/b.txt 
+  286  ls
+  287  mkdir playground
+  288  cd playground/
+  289  echo "Roy Amster" > a.txt
+  290  cd..
+  291  cd ..
+  292  gedit "Roy Amster"
+  293  rm Roy Amster
+  294  rm "Roy Amster"
+  295  ls
+  296  ls -l
+  297  grep "Roy Amster"
+  298  man grep
+  299  grep "Roy Amster" playground/
+  300  grep "Roy Amster" playground/a.txt 
+  301  gedit playground/a.txt 
+  302  grep "Roy Amster" playground/a.txt 
+  303  cd playground/
+  304  touch Roy Amster
+  305  grep "Roy Amster" playground
+  306  grep -r  "Roy Amster" playground
+  307  grep -r  "Roy Amster" playground/
+  308  cd ..
+  309  grep -r  "Roy Amster" playground/
+  310  cd _
+  311  cd -
+  312  grep -r  "Roy Amster" ~/playground
+  313  man grep
+  314  geani
+  315  geany
+  316  geany name.txt
+  317  cat names.txt
+  318  cat name.txt
+  319  sort name
+  320  sort name.txt
+  321  sort  -u name.txt
+  322  sort  -r name.txt
+  323  man sort
+  324  sort -m name.txt 
+  325  cd ..
+  326  ls
+  327  cd Doc
+  328  cd Documents/
+  329  ls
+  330  cd firstproject/
+  331  ls
+  332  ll
+  333  git stat
+  334  git status 
+  335  touch a
+  336  git status 
+  337  ls
+  338  touch bbb
+  339  git status 
+  340  git add .
+  341  git status 
+  342  commit -m "bb added"
+  343  git commit -m "bb added"
+  344  git log
+  345  touch nnn
+  346  touch bb
+  347  ls
+  348  git status 
+  349  git
+  350  git rm bb
+  351  ls
+  352  git rm b
+  353  ls
+  354  touch b
+  355  git log
+  356  git status
+  357  git rm --cache
+  358  git rm --cached b
+  359  git rm --cached a
+  360  git rm b
+  361  rm b
+  362  git status 
+  363  git add .
+  364  ls
+  365  git status 
+  366  echo "hi?" >> a.txt
+  367  ls
+  368  cat a
+  369  cat a.txt
+  370  git status
+  371  cp a.txt a
+  372  git status 
+  373  cart head
+  374  cat head
+  375  cat HEAD
+  376  cd .git/
+  377  LS
+  378  ls
+  379  cat HEAD
+  380  cd ..
+  381  mkdir secondproject
+  382  cd secondproject/
+  383  git clone https://github.com/RoyAmsterRTED/GitCourse.git
+  384  ls
+  385  cd GitCourse/
+  386  ls
+  387  git remote https://github.com/RoyAmsterRTED/GitCourse.git
+  388  git remote add origin https://github.com/RoyAmsterRTED/GitCourse.git
+  389  git log
+  390  git remote -v
+  391  history >> history.txt
+  392  git status
+  393  cat history.txt
+  394  clear
+  395  git add .
+  396* git commit - m "Added my first command history"
+  397  git status
+  398  git rm --cached history.txt
+  399  ls
+  400  git status
+  401  git add .
+  402  git status
+  403  git log
+  404  git commit -m "Uploaded history file"
+  405  git push origin master
+  406  git push
+  407  ls
+  408  git branch
+  409  git --version
+  410  git push origin main
+  411  ping 
+  412  ping github.com
+  413  ifconfig
+  414  cd ~
+  415  pwd
+  416  ls
+  417  ls.ssh
+  418  ls .Docs
+  419  ls
+  420  ls .Downloads
+  421  ls Downloads
+  422  ll
+  423  ll .ssh
+  424  ll ssh
+  425  ssh-keygen -t rsa -b 4096
+  426  ls key
+  427  ls .key
+  428  find key
+  429  find *key
+  430  ll
+  431  rm -f Key
+  432  ll
+  433  ssh-keygen -t rsa -b 4096
+  434  ll .ssh
+  435  ls
+  436  ll
+  437  ll .ssh
+  438  cat id_rsa.pub
+  439  cd .ssh
+  440  cd ..
+  441  cd ssh
+  442  cd .ssh
+  443  cat id_rsa.pub 
+  444  ssh -T git@github.com
+  445  cd 
+  446  ls
+  447  cd Documents/
+  448  ls
+  449  cd secondproject/
+  450  ssh-T git@github.com
+  451  ssh -T git@github.com
+  452  ls ~/.ssh
+  453  cat ~/.ssh/known_hosts 
+  454  ping github.com
+  455  git config remote.origin.url git@github.com:RoyAmsterRTED/GitCourse.git
+  456  pwd
+  457  ls
+  458  cd GitCourse/
+  459  git config remote.origin.url git@github.com:RoyAmsterRTED/GitCourse.git
+  460  git status
+  461  history > second_history.txt
